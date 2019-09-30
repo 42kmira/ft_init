@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    16                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kmira <kmira@student.42.fr>                +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 19:53:46 by kmira             #+#    #+#              #
+#    Updated: 2019/03/24 20:41:13 by kmira            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#[man at]
+#-- queue, examine, or delete jobs for later execution
+
+#[man cron]
+# -- daemon to execute scheduled commands (Vixie Cron)
+#The cron utility then wakes up every minute, examining all stored crontabs,
+#checking each command to see if it should be run in the current minute

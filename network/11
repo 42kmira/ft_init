@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    11                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kmira <kmira@student.42.fr>                +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 12:26:52 by kmira             #+#    #+#              #
+#    Updated: 2019/03/24 12:51:27 by kmira            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#Network Address Translation (NAT) is designed for IP address conservation.
+#It enables private IP networks that use unregistered IP addresses to connect
+#to the Internet.
+
+#traceroute slash16.org
+
+3  nat (10.112.255.255)  0.317 ms  0.275 ms  0.298 ms

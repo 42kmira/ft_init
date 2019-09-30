@@ -1,0 +1,20 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    14                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kmira <kmira@student.42.fr>                +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 14:41:25 by kmira             #+#    #+#              #
+#    Updated: 2019/03/24 14:55:05 by kmira            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#The /etc/hosts is an operating system file that translate hostnames
+#or domain names to IP addresses. This is useful for testing
+#websites changes or the SSL setup before taking a website publicly live.
+
+#This article explains, how to setup a local DNS using the hosts file (/etc/hosts)
+#in Linux systems for **local domain resolution** or testing the website before taking live.
+
+cat /etc/hosts
